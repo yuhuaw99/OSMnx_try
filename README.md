@@ -13,3 +13,6 @@ Using street network in Chapel Hill as an example, get familiar with OMSnx pytho
 
 ## Basic indicators
 ![](figure/betweenness_centrality.png)
+
+## Street orientations
+![](figure/orientation.png)
